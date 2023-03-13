@@ -71,3 +71,26 @@ export default timer;
 ```
 more code examples in my github **[IrinaAziova](https://github.com/IrinaAzizova)**
 ***
+### Experience
+1. pharmacist
+2. I have no experience in commercial development, but created a landing page, business card sites with a landing on CMS if necessary, web applications do not requiring a complex backend.
+***
+### Education
+| year | higher education | educational institution |
+|---|:---:|:---|
+|2016 | Specialist, Pharmacist, Management and Economics of Pharmacy | Nizhny Novgorod Medical Academy |
+
+| year | course | educational institution |
+|---|:---:|:---|
+| 2020 | Python Programming Fundamentals | HSE |
+| 2021 | Python Data Structures, Using Python to Access Web Data | University of Michigan |
+| 2021 | - Internet History, Technology, and Security | University of Michigan |
+| 2021 | Introduction to Structured Query Language (SQL) | University of Michigan |
+| 2021 | Animation, Data Manipulation and Interactivity with JavaScript and jQuery | University of California, Davis |
+| 2021  | Foundations of User Experience (UX) Design | Google |
+| 2021 | Subtleties of layout (HTML5, CSS3) | MIPT together with Yandex |
+| 2021 | Advanced Styling with Responsive Design | University of Michigan |
+***
+### Languages
+* Russian - native
+* English  - Intermediate (B1) (according to the results of the test on puzzle-english.com)
